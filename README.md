@@ -1,2 +1,2 @@
 # trajectory_inference
-Inferring real time axis 
+Inferring the developmental real time axis of mouse thymocytes using single-cell mass cytometry (CyTOF) 
